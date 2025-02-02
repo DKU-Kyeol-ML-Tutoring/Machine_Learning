@@ -24,4 +24,4 @@
 
 Tutor : [Hoyeong Lee](https://github.com/2Ho0)
 
-Tutee : [Yebin Son](https://github.com/sonyebin), [Hojun Choi](https://github.com/helloiamhojun), [Eunha Kim](https://github.com/rlo-haa), [Jiwon Ha](https://github.com/hajiwonn), [Haeun Jo](https://github.com/johaeunn), [Noyoung Kong](https://github.com/0-na0)
+Tutee : [Yebin Son](https://github.com/sonyebin), [Hojun Choi](https://github.com/helloiamhojun), [Eunha Kim](https://github.com/rlo-haa), [Jiwon Ha](https://github.com/hajiwonn), [Haeun Jo](https://github.com/johaeunn), [Nayoung Kong](https://github.com/0-na0)
